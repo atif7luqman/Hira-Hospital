@@ -6,6 +6,7 @@ import Footer from './assets/components/Footer';
 import Values from './assets/components/Values';
 import Departments from './assets/components/Departments';
 import Doctors from './assets/components/Doctors';
+import Book from './assets/components/Book';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Values></Values>
       <Departments></Departments>
       <Doctors></Doctors>>
+      <Book></Book>
       <Footer></Footer>
     </>
   );

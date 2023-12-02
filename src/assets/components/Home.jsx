@@ -3,7 +3,6 @@ import { RightOutlined, PhoneFilled} from '@ant-design/icons';
 import { Image } from 'react-bootstrap';
 import IconImage from '../images/icon.png'
 import DoctorImg from '../images/doctor_home.png'
-import Record from '../images/1.png'
 
 const App = () => {
 
