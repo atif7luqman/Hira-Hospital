@@ -7,6 +7,7 @@ import Values from './assets/components/Values';
 import Departments from './assets/components/Departments';
 import Doctors from './assets/components/Doctors';
 import Book from './assets/components/Book';
+import Tasks from '/assets/components/Tasks
 
 const App = () => {
   return (
@@ -15,7 +16,8 @@ const App = () => {
       <Home></Home>
       <Values></Values>
       <Departments></Departments>
-      <Doctors></Doctors>>
+      <Doctors></Doctors>
+      <Tasks></Tasks>
       <Book></Book>
       <Footer></Footer>
     </>
